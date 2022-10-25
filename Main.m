@@ -1,3 +1,5 @@
+%% MATLAB Tree Generator Project
+
 %% States
 VehicleEgo = State(10,0,10);
 VehiclesOther = [State(24,0,2) State(20,3.7,8) State(0,0,13)];
